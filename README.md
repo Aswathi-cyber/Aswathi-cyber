@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I am Aswathi K S 🛡️
+currently learning BTech CSE (Cybersecurity) at Parul University | semester 2 
+
+- Focus: Operating System & Platform Security (OSPS)
+- 💻 Programming: C++ (Object-Oriented Programming)
+- 🛠️ Tools: Kali Linux, Arduino, Git
+
+
 
 <!--
 **Aswathi-cyber/Aswathi-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
